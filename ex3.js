@@ -5,6 +5,7 @@ var incBy = function(){
 }
 
 var x;	//get number from user
+
 incBy(x);
 console.log(x);
 
